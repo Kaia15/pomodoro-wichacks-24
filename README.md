@@ -8,6 +8,7 @@ https://github.com/Kaia15/pomodoro-wichacks-24/assets/86872685/3f8256b9-39d5-488
 "Your Pomo." Chrome extension offers a straightforward Pomodoro Technique implementation with a 25-minute countdown timer for work sessions followed by a 5-minute break. Users can start, pause, and restart the timer without navigating to another timer tab, promoting work & study productivity.
 
 **P/s: for testing purpose, I already set default timing 2-minute focus time and 30-second break time.**
+
 **Tech-stacks: React.js, MUI, Chrome API(s), HTML, CSS.**
 
 ## Available Scripts
